@@ -15,5 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
  <a href="https://github.com/codewithzichao">
-[![codewithzichao's github](https://github-readme-stats.vercel.app/api?username=codewithzichao&show_icons=true)]()
+
+<img src="https://github-readme-stats.vercel.app/api?username=codewithzichao&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&hide=contribs,issues" />
+
 </a>
