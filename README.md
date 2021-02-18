@@ -7,6 +7,7 @@ Here are some ideas to get you started:
 
 🔭 I’m currently majoring in computer technology at Peking University. The specific research areas that i'm interested in are NLP(NER\Relation Extraction\Multimodal Machine Translation etc) and Recommendation(Match\CTR Prediction).🥳
 
+-->
 
  <a href="https://github.com/codewithzichao">
 
