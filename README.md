@@ -8,6 +8,6 @@
 
  <a href="https://github.com/codewithzichao">
 
-<img src="https://github-readme-stats.vercel.app/api?username=codewithzichao&show_icons=true&hide=contribs,issues" />
+<img src="https://github-readme-stats.vercel.app/api?username=codewithzichao&show_icons=true" />
 
 </a>
